@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.28.4",
+    "@supabase/supabase-js": "^2.39.8",
+    "next-intl": "^3.9.1"
+  }
+}

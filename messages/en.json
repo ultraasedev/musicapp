@@ -1,0 +1,44 @@
+{
+  "common": {
+    "home": "Home",
+    "library": "Your Library",
+    "likedSongs": "Liked Songs",
+    "playlists": "Playlists",
+    "createPlaylist": "Create Playlist",
+    "yourPlaylists": "Your Playlists",
+    "search": "Search songs, artists, albums..."
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "needAccount": "Need an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "subscription": {
+    "currentPlan": "Current Plan",
+    "premium": "Premium",
+    "free": "Free",
+    "upgradeToPremium": "Upgrade to Premium",
+    "premiumFeatures": "Upgrade to Premium for ad-free music, offline listening, and HD quality"
+  },
+  "landing": {
+    "hero": {
+      "title": "Your Music, Your Way, Anywhere",
+      "subtitle": "Stream millions of songs, create playlists, and discover new music. Available on web and mobile.",
+      "startTrial": "Start Free Trial",
+      "viewPlans": "View Plans"
+    },
+    "features": {
+      "title": "Everything You Need",
+      "millionsOfSongs": "Millions of Songs",
+      "hdAudio": "HD Audio Quality",
+      "personalizedRadio": "Personalized Radio",
+      "offlineMode": "Offline Mode",
+      "socialFeatures": "Social Features",
+      "crossPlatform": "Cross Platform"
+    }
+  }
+}

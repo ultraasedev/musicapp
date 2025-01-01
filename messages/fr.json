@@ -1,0 +1,44 @@
+{
+  "common": {
+    "home": "Accueil",
+    "library": "Votre Bibliothèque",
+    "likedSongs": "Titres Likés",
+    "playlists": "Playlists",
+    "createPlaylist": "Créer une Playlist",
+    "yourPlaylists": "Vos Playlists",
+    "search": "Rechercher des titres, artistes, albums..."
+  },
+  "auth": {
+    "signIn": "Se Connecter",
+    "signUp": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "name": "Nom",
+    "needAccount": "Besoin d'un compte ?",
+    "haveAccount": "Déjà un compte ?"
+  },
+  "subscription": {
+    "currentPlan": "Forfait Actuel",
+    "premium": "Premium",
+    "free": "Gratuit",
+    "upgradeToPremium": "Passer à Premium",
+    "premiumFeatures": "Passez à Premium pour la musique sans pub, l'écoute hors ligne et la qualité HD"
+  },
+  "landing": {
+    "hero": {
+      "title": "Votre Musique, À Votre Façon, Partout",
+      "subtitle": "Écoutez des millions de titres, créez des playlists et découvrez de nouvelles musiques. Disponible sur web et mobile.",
+      "startTrial": "Essai Gratuit",
+      "viewPlans": "Voir les Forfaits"
+    },
+    "features": {
+      "title": "Tout ce dont vous avez besoin",
+      "millionsOfSongs": "Des Millions de Titres",
+      "hdAudio": "Qualité Audio HD",
+      "personalizedRadio": "Radio Personnalisée",
+      "offlineMode": "Mode Hors Ligne",
+      "socialFeatures": "Fonctionnalités Sociales",
+      "crossPlatform": "Multi-Plateformes"
+    }
+  }
+}
